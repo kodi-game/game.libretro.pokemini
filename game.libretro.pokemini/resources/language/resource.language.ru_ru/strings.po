@@ -22,39 +22,39 @@ msgid "Settings"
 msgstr "Настройки"
 
 msgctxt "#30001"
-msgid "LCD Brightness"
+msgid "Video Scale (Restart)"
 msgstr ""
 
 msgctxt "#30002"
-msgid "LCD Contrast"
-msgstr ""
-
-msgctxt "#30003"
 msgid "LCD Filter"
 msgstr ""
 
-msgctxt "#30004"
+msgctxt "#30003"
 msgid "LCD Mode"
 msgstr ""
 
+msgctxt "#30004"
+msgid "LCD Contrast"
+msgstr ""
+
 msgctxt "#30005"
-msgid "Low Pass Filter"
+msgid "LCD Brightness"
 msgstr ""
 
 msgctxt "#30006"
-msgid "Low Pass Filter Level (%)"
-msgstr ""
-
-msgctxt "#30007"
 msgid "Palette"
 msgstr ""
 
-msgctxt "#30008"
+msgctxt "#30007"
 msgid "Piezo Filter"
 msgstr ""
 
+msgctxt "#30008"
+msgid "Low Pass Filter"
+msgstr ""
+
 msgctxt "#30009"
-msgid "Controller Rumble Level"
+msgid "Low Pass Filter Level (%)"
 msgstr ""
 
 msgctxt "#30010"
@@ -62,5 +62,5 @@ msgid "Screen Shake Level"
 msgstr ""
 
 msgctxt "#30011"
-msgid "Video Scale (Restart)"
+msgid "Controller Rumble Level"
 msgstr ""
