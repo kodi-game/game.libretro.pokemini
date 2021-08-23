@@ -17,6 +17,18 @@ msgstr ""
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.5.3\n"
 
+msgctxt "Addon Summary"
+msgid "Nintendo - Pokemon Mini (PokeMini) v0.60"
+msgstr ""
+
+msgctxt "Addon Description"
+msgid "PokeMini emulates the obscure Pokémon Mini handheld. While functional, it does not support color files or savestates currently.
+
+To include real BIOS, place &#34;bios.min&#34; in the emulator&#39;s userdata folder.
+
+Supported files: .min"
+msgstr ""
+
 msgctxt "#30000"
 msgid "Settings"
 msgstr "Настройки"
