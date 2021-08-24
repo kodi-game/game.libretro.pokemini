@@ -15,18 +15,10 @@
 		<supports_standalone>false</supports_standalone>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-
-To include real BIOS, place &#34;bios.min&#34; in the emulator&#39;s userdata folder.
-
-Supported files: .min</description>
 		<license>GPLv3</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.pokemini</source>
 		<summary lang="en_GB">Nintendo - Pokemon Mini (PokeMini) v0.60</summary>
-		<description lang="en_GB">PokeMini emulates the obscure Pokémon Mini handheld. While functional, it does not support color files or savestates currently.
-
-To include real BIOS, place &#34;bios.min&#34; in the emulator&#39;s userdata folder.
-
-Supported files: .min</description>
+		<description lang="en_GB">PokeMini emulates the obscure Pokémon Mini handheld. While functional, it does not support color files or savestates currently.[CR][CR]To use a real BIOS, place &#34;bios.min&#34; in the emulator&#39;s userdata folder.</description>
 	</extension>
 </addon>
