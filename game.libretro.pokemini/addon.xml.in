@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.pokemini"
 		name="Nintendo - Pokemon Mini (PokeMini)"
-		version="0.60.0.22"
+		version="0.60.0.23"
 		provider-name="JustBurn">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -20,6 +20,6 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.pokemini</source>
 		<summary lang="en_GB">Nintendo - Pokemon Mini (PokeMini) v0.60</summary>
-		<description lang="en_GB">PokeMini emulates the obscure Pokémon Mini handheld. While functional, it does not support color files or savestates currently.[CR][CR]To use a real BIOS, place &quot;bios.min&quot; in the emulator's userdata folder.</description>
+		<description lang="en_GB">PokeMini emulates the obscure Pokémon Mini handheld. While functional, it does not support color files or savestates currently.[CR][CR]To use a real BIOS, place &#34;bios.min&#34; in the emulator&#39;s userdata folder.</description>
 	</extension>
 </addon>
