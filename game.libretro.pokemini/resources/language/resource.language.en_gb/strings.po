@@ -21,7 +21,7 @@ msgid "Nintendo - Pokemon Mini (PokeMini) v0.60"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "PokeMini emulates the obscure Pokémon Mini handheld. While functional, it does not support color files or savestates currently.[CR][CR]To use a real BIOS, place [I]bios.min[/I] in the emulator&apos;s userdata folder."
+msgid "PokeMini emulates the obscure Pokémon Mini handheld. While functional, it does not support color files or savestates currently.[CR][CR]To use a real BIOS, place [I]bios.min[/I] in the emulator\'s userdata folder."
 msgstr ""
 
 msgctxt "#30000"
