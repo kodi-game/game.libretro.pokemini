@@ -7,7 +7,7 @@
 
 PokeMini emulates the obscure Pokémon Mini handheld. While functional, it does not support color files or savestates currently.
 
-To use a real BIOS, place *bios.min* in the emulator&apos;s userdata folder.
+To use a real BIOS, place *bios.min* in the emulator's userdata folder.
 
 ### License
 
