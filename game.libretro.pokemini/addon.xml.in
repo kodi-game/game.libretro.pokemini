@@ -20,7 +20,7 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.pokemini</source>
 		<summary lang="en_GB">Nintendo - Pokemon Mini (PokeMini) v0.60</summary>
-		<description lang="en_GB">PokeMini emulates the obscure Pokémon Mini handheld. While functional, it does not support color files or savestates currently.[CR][CR]To use a real BIOS, place [I]bios.min[/I] in the emulator's userdata folder.</description>
+		<description lang="en_GB">PokeMini emulates the obscure Pokémon Mini handheld. While functional, it does not support color files or savestates currently.[CR][CR]To use a real BIOS, place [I]bios.min[/I] in the emulator&apos;s userdata folder.</description>
 		<description lang="zh_CN">PokeMini 仿真默默无闻的 Pokémon Mini 掌机。虽然功能正常，但它目前不支持颜色文件或保存状态。[CR][CR]要使用真正的 BIOS，请将 [I]BIOS.min[/I] 放在模拟器的 userdata 文件夹中。</description>
 	</extension>
 </addon>
