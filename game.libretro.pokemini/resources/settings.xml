@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <settings>
 	<category label="30000">
-		<setting label="30001" type="select" id="pokemini_video_scale" values="4x|1x|2x|3x|5x|6x" default="4x"/>
+		<setting label="30001" type="select" id="pokemini_video_scale" values="4x|1x|2x|3x|5x|6x|7x" default="4x"/>
 		<setting label="30002" type="select" id="pokemini_lcdfilter" values="dotmatrix|scanline|none" default="dotmatrix"/>
 		<setting label="30003" type="select" id="pokemini_lcdmode" values="analog|3shades|2shades" default="analog"/>
 		<setting label="30004" type="select" id="pokemini_lcdcontrast" values="64|0|16|32|48|80|96" default="64"/>
