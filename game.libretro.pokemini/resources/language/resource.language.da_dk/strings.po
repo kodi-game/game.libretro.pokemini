@@ -34,45 +34,93 @@ msgid "Video Scale (Restart)"
 msgstr "Videoskalering (genstart)"
 
 msgctxt "#30002"
-msgid "LCD Filter"
-msgstr "LCD-filter"
+msgid "60Hz Mode"
+msgstr ""
 
 msgctxt "#30003"
-msgid "LCD Mode"
-msgstr "LCD-tilstand"
+msgid "LCD Filter"
+msgstr ""
 
 msgctxt "#30004"
-msgid "LCD Contrast"
-msgstr "LCD kontrast"
+msgid "LCD Mode"
+msgstr ""
 
 msgctxt "#30005"
-msgid "LCD Brightness"
-msgstr "LCD lysstyrke"
+msgid "LCD Contrast"
+msgstr ""
 
 msgctxt "#30006"
-msgid "Palette"
-msgstr "Palette"
+msgid "LCD Brightness"
+msgstr ""
 
 msgctxt "#30007"
-msgid "Piezo Filter"
-msgstr "Piezo-filter"
+msgid "Palette"
+msgstr ""
 
 msgctxt "#30008"
-msgid "Low Pass Filter"
-msgstr "Low pass-filter"
+msgid "Piezo Filter"
+msgstr ""
 
 msgctxt "#30009"
-msgid "Low Pass Filter Level (%)"
-msgstr "Low pass-filterniveau (%)"
+msgid "Low Pass Filter"
+msgstr ""
 
 msgctxt "#30010"
-msgid "Screen Shake Level"
-msgstr "Niveau for ryst af skærm"
+msgid "Low Pass Filter Level (%)"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Controller Rumble Level"
-msgstr "Niveau for controllerens rysten"
+msgid "Screen Shake Level"
+msgstr ""
 
 msgctxt "#30012"
+msgid "Controller Rumble Level"
+msgstr ""
+
+msgctxt "#30013"
 msgid "Turbo Button Period"
-msgstr "Periode for turboknap"
+msgstr ""
+
+#~ msgctxt "#30002"
+#~ msgid "LCD Filter"
+#~ msgstr "LCD-filter"
+
+#~ msgctxt "#30003"
+#~ msgid "LCD Mode"
+#~ msgstr "LCD-tilstand"
+
+#~ msgctxt "#30004"
+#~ msgid "LCD Contrast"
+#~ msgstr "LCD kontrast"
+
+#~ msgctxt "#30005"
+#~ msgid "LCD Brightness"
+#~ msgstr "LCD lysstyrke"
+
+#~ msgctxt "#30006"
+#~ msgid "Palette"
+#~ msgstr "Palette"
+
+#~ msgctxt "#30007"
+#~ msgid "Piezo Filter"
+#~ msgstr "Piezo-filter"
+
+#~ msgctxt "#30008"
+#~ msgid "Low Pass Filter"
+#~ msgstr "Low pass-filter"
+
+#~ msgctxt "#30009"
+#~ msgid "Low Pass Filter Level (%)"
+#~ msgstr "Low pass-filterniveau (%)"
+
+#~ msgctxt "#30010"
+#~ msgid "Screen Shake Level"
+#~ msgstr "Niveau for ryst af skærm"
+
+#~ msgctxt "#30011"
+#~ msgid "Controller Rumble Level"
+#~ msgstr "Niveau for controllerens rysten"
+
+#~ msgctxt "#30012"
+#~ msgid "Turbo Button Period"
+#~ msgstr "Periode for turboknap"
