@@ -1,1 +1,1 @@
-pokemini https://github.com/libretro/PokeMini/archive/b8b56e3bb094f0bb81d2ae44530a8981ab4819e5.tar.gz
+pokemini https://github.com/libretro/PokeMini/archive/9ba2c2d98bef98794095f3ef50e22f1a3cbc6166.tar.gz
