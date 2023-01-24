@@ -15,7 +15,7 @@ GPLv3
 
 ### Icon
 
-![Icon](game.libretro.pokemini/resources/icon.png)
+![Nintendo - Pokemon Mini (PokeMini) icon](game.libretro.pokemini/resources/icon.png)
 
 ### Fanart
 
