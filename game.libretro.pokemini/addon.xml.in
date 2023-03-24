@@ -22,7 +22,7 @@
 		<assets>
 			<icon>resources/icon.png</icon>
 		</assets>
-		<summary lang="en_GB">Nintendo - Pokemon Mini (PokeMini) v0.60</summary>
+		<summary lang="en_GB">Nintendo - Pokemon Mini (PokeMini)</summary>
 		<description lang="da_DK">PokeMini emulerer den obskure Pokémon Mini håndholdte. Selvom den er funktionel, understøtter den i øjeblikket ikke farvefiler eller gemte tilstande.[CR][CR]For at bruge en rigtig BIOS skal du placere [I]bios.min[/I] i emulatorens brugerdatamappe.</description>
 		<description lang="de_DE">PokeMini emuliert den obskuren Pokémon Mini-Handheld. Er ist zwar funktionsfähig, unterstützt aber derzeit keine Farbdateien oder Savestates.[CR][CR]Um ein echtes BIOS zu verwenden, muss die Datei [I]bios.min[/I] im userdata-Ordner des Emulators abgelegt werden.</description>
 		<description lang="en_GB">PokeMini emulates the obscure Pokémon Mini handheld. While functional, it does not support color files or savestates currently.[CR][CR]To use a real BIOS, place [I]bios.min[/I] in the emulator&apos;s userdata folder.</description>
