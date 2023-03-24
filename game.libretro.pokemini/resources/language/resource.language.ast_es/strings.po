@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.13\n"
 
 msgctxt "Addon Summary"
-msgid "Nintendo - Pokemon Mini (PokeMini) v0.60"
+msgid "Nintendo - Pokemon Mini (PokeMini)"
 msgstr ""
 
 msgctxt "Addon Description"
