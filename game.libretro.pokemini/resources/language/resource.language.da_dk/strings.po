@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "PokeMini emulates the obscure Pokémon Mini handheld. While functional, it does not support color files or savestates currently.[CR][CR]To use a real BIOS, place [I]bios.min[/I] in the emulator's userdata folder."
 msgstr "PokeMini emulerer den obskure Pokémon Mini håndholdte. Selvom den er funktionel, understøtter den i øjeblikket ikke farvefiler eller gemte tilstande.[CR][CR]For at bruge en rigtig BIOS skal du placere [I]bios.min[/I] i emulatorens brugerdatamappe."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Indstillinger"
-
 msgctxt "#30001"
 msgid "Video Scale (Restart)"
 msgstr "Videoskalering (genstart)"
@@ -80,6 +76,10 @@ msgstr "Niveau for controllerens rysten"
 msgctxt "#30013"
 msgid "Turbo Button Period"
 msgstr "Periode for turboknap"
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Indstillinger"
 
 #~ msgctxt "#30002"
 #~ msgid "LCD Filter"
