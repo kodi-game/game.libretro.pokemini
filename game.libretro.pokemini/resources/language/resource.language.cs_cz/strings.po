@@ -7,7 +7,7 @@ msgstr ""
 "Project-Id-Version: game.libretro.pokemini\n"
 "Report-Msgid-Bugs-To: translations@kodi.tv\n"
 "POT-Creation-Date: 2018-04-13 18:25i\n"
-"PO-Revision-Date: 2026-07-06 08:12+0000\n"
+"PO-Revision-Date: 2026-08-22 22:05+0000\n"
 "Last-Translator: Michal Várady <miko.vaji@gmail.com>\n"
 "Language-Team: Czech <https://kodi.weblate.cloud/projects/kodi-add-ons-game/game-libretro-pokemini/cs_cz/>\n"
 "Language: cs_cz\n"
@@ -15,7 +15,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 2026.7\n"
+"X-Generator: Weblate 2026.8.1\n"
 
 msgctxt "Addon Summary"
 msgid "Nintendo - Pokemon Mini (PokeMini)"
@@ -76,3 +76,135 @@ msgstr "Úroveň vibrací ovladače"
 msgctxt "#30013"
 msgid "Turbo Button Period"
 msgstr "Perioda tlačítka Turbo"
+
+msgctxt "#30014"
+msgid "Set internal video scale factor. Increasing the scale factor improves the appearance of the internal 'Dot Matrix' LCD filter."
+msgstr "Nastavit interní faktor škálování videa. Zvýšení faktoru zlepšuje vzhled interního LCD filtru „Maticové body“."
+
+msgctxt "#30015"
+msgid "Update the display at 60Hz instead of the native 72Hz Pokemon Mini's refresh rate by dropping every sixth frame. Reduces video smoothness, but avoids screen tearing on displays that do not support native operation above 60Hz."
+msgstr "Aktualizovat zobrazení při 60 Hz místo nativní obnovovací frekvence Pokemon Mini 72 Hz vynecháním každého šestého snímku. Snižuje plynulost videa, ale zabraňuje trhání obrazu na displejích, které nepodporují nativní provoz nad 60 Hz."
+
+msgctxt "#30016"
+msgid "Select internal screen filter. 'Dot Matrix' produces an LCD effect that mimics real hardware. LCD filters are disabled when 'Video Scale' is set to '1x'."
+msgstr "Vyberte interní filtr obrazovky. „Maticové body“ vytváří LCD efekt napodobující skutečný hardware. LCD filtry jsou zakázány, pokud je „Měřítko videa“ nastaveno na „1x“."
+
+msgctxt "#30017"
+msgid "Dot Matrix"
+msgstr "Maticové body"
+
+msgctxt "#30018"
+msgid "Scanlines"
+msgstr "Skenovací řádky"
+
+msgctxt "#30019"
+msgid "None"
+msgstr "Žádné"
+
+msgctxt "#30020"
+msgid "Specify the greyscale 'color' reproduction characteristics of the emulated liquid crystal display. 'Analog' mimics real hardware. '2 Shades' removes ghosting, but causes flickering in most games."
+msgstr "Určuje charakteristiky reprodukce odstínů šedi „barvou“ emulovaného displeje z tekutých krystalů. „Analogové“ napodobuje skutečný hardware. „2 odstíny“ odstraní doznívání, ale ve většině her způsobí blikání."
+
+msgctxt "#30021"
+msgid "Analog"
+msgstr "Analogové"
+
+msgctxt "#30022"
+msgid "3 Shades"
+msgstr "3 odstíny"
+
+msgctxt "#30023"
+msgid "2 Shades"
+msgstr "2 odstíny"
+
+msgctxt "#30024"
+msgid "Set contrast level of emulated liquid crystal display."
+msgstr "Nastavit úroveň kontrastu emulovaného displeje z tekutých krystalů."
+
+msgctxt "#30025"
+msgid "Set brightness offset of emulated liquid crystal display."
+msgstr "Nastavit posun jasu emulovaného displeje z tekutých krystalů."
+
+msgctxt "#30026"
+msgid "Specify palette used to 'colorize' the emulated liquid crystal display. 'Default' mimics real hardware."
+msgstr "Určuje paletu použitou k „obarvení“ emulovaného displeje z tekutých krystalů. „Výchozí“ napodobuje skutečný hardware."
+
+msgctxt "#30027"
+msgid "Default"
+msgstr "Výchozí"
+
+msgctxt "#30028"
+msgid "Old"
+msgstr "Stará"
+
+msgctxt "#30029"
+msgid "Black & White"
+msgstr "Černobílá"
+
+msgctxt "#30030"
+msgid "Green"
+msgstr "Zelená"
+
+msgctxt "#30031"
+msgid "Inverted Green"
+msgstr "Invertovaná zelená"
+
+msgctxt "#30032"
+msgid "Red"
+msgstr "Červená"
+
+msgctxt "#30033"
+msgid "Inverted Red"
+msgstr "Invertovaná červená"
+
+msgctxt "#30034"
+msgid "Blue LCD"
+msgstr "Modrý LCD"
+
+msgctxt "#30035"
+msgid "LED Backlight"
+msgstr "Podsvícení LED"
+
+msgctxt "#30036"
+msgid "Girl Power"
+msgstr "Girl Power"
+
+msgctxt "#30037"
+msgid "Blue"
+msgstr "Modrá"
+
+msgctxt "#30038"
+msgid "Inverted Blue"
+msgstr "Invertovaná modrá"
+
+msgctxt "#30039"
+msgid "Sepia"
+msgstr "Sépiová"
+
+msgctxt "#30040"
+msgid "Inverted Black & White"
+msgstr "Invertovaná černobílá"
+
+msgctxt "#30041"
+msgid "Use an audio filter to simulate the characteristics of the Pokemon Mini's piezoelectric speaker."
+msgstr "Použít zvukový filtr k napodobení vlastností piezoelektrického reproduktoru Pokemon Mini."
+
+msgctxt "#30042"
+msgid "Enables a low pass audio filter to soften the 'harsh' sound of the Pokemon Mini's piezoelectric speaker."
+msgstr "Povolí dolní propust zvuku ke změkčení „ostrého“ zvuku piezoelektrického reproduktoru Pokemon Mini."
+
+msgctxt "#30043"
+msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
+msgstr "Určuje mezní frekvenci zvukového filtru typu dolní propust. Vyšší hodnota zvyšuje vnímanou „intenzitu“ filtru, protože se zeslabuje širší část vysokofrekvenčního spektra."
+
+msgctxt "#30044"
+msgid "Enable virtual force feedback effect by 'shaking' the screen."
+msgstr "Povolit virtuální efekt silové odezvy „zatřesením“ obrazovky."
+
+msgctxt "#30045"
+msgid "Enable physical force feedback effect via controller rumble."
+msgstr "Povolit fyzický efekt silové odezvy pomocí vibrací ovladače."
+
+msgctxt "#30046"
+msgid "Specify the repeat interval (in frames) when holding down the Turbo A button."
+msgstr "Určuje interval opakování (ve snímcích) při podržení tlačítka Turbo A."

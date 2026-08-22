@@ -81,6 +81,138 @@ msgctxt "#30013"
 msgid "Turbo Button Period"
 msgstr "Turbo-knappen Period"
 
+msgctxt "#30014"
+msgid "Set internal video scale factor. Increasing the scale factor improves the appearance of the internal 'Dot Matrix' LCD filter."
+msgstr ""
+
+msgctxt "#30015"
+msgid "Update the display at 60Hz instead of the native 72Hz Pokemon Mini's refresh rate by dropping every sixth frame. Reduces video smoothness, but avoids screen tearing on displays that do not support native operation above 60Hz."
+msgstr ""
+
+msgctxt "#30016"
+msgid "Select internal screen filter. 'Dot Matrix' produces an LCD effect that mimics real hardware. LCD filters are disabled when 'Video Scale' is set to '1x'."
+msgstr ""
+
+msgctxt "#30017"
+msgid "Dot Matrix"
+msgstr ""
+
+msgctxt "#30018"
+msgid "Scanlines"
+msgstr ""
+
+msgctxt "#30019"
+msgid "None"
+msgstr ""
+
+msgctxt "#30020"
+msgid "Specify the greyscale 'color' reproduction characteristics of the emulated liquid crystal display. 'Analog' mimics real hardware. '2 Shades' removes ghosting, but causes flickering in most games."
+msgstr ""
+
+msgctxt "#30021"
+msgid "Analog"
+msgstr ""
+
+msgctxt "#30022"
+msgid "3 Shades"
+msgstr ""
+
+msgctxt "#30023"
+msgid "2 Shades"
+msgstr ""
+
+msgctxt "#30024"
+msgid "Set contrast level of emulated liquid crystal display."
+msgstr ""
+
+msgctxt "#30025"
+msgid "Set brightness offset of emulated liquid crystal display."
+msgstr ""
+
+msgctxt "#30026"
+msgid "Specify palette used to 'colorize' the emulated liquid crystal display. 'Default' mimics real hardware."
+msgstr ""
+
+msgctxt "#30027"
+msgid "Default"
+msgstr ""
+
+msgctxt "#30028"
+msgid "Old"
+msgstr ""
+
+msgctxt "#30029"
+msgid "Black & White"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Green"
+msgstr ""
+
+msgctxt "#30031"
+msgid "Inverted Green"
+msgstr ""
+
+msgctxt "#30032"
+msgid "Red"
+msgstr ""
+
+msgctxt "#30033"
+msgid "Inverted Red"
+msgstr ""
+
+msgctxt "#30034"
+msgid "Blue LCD"
+msgstr ""
+
+msgctxt "#30035"
+msgid "LED Backlight"
+msgstr ""
+
+msgctxt "#30036"
+msgid "Girl Power"
+msgstr ""
+
+msgctxt "#30037"
+msgid "Blue"
+msgstr ""
+
+msgctxt "#30038"
+msgid "Inverted Blue"
+msgstr ""
+
+msgctxt "#30039"
+msgid "Sepia"
+msgstr ""
+
+msgctxt "#30040"
+msgid "Inverted Black & White"
+msgstr ""
+
+msgctxt "#30041"
+msgid "Use an audio filter to simulate the characteristics of the Pokemon Mini's piezoelectric speaker."
+msgstr ""
+
+msgctxt "#30042"
+msgid "Enables a low pass audio filter to soften the 'harsh' sound of the Pokemon Mini's piezoelectric speaker."
+msgstr ""
+
+msgctxt "#30043"
+msgid "Specifies the cut-off frequency of the low pass audio filter. A higher value increases the perceived 'strength' of the filter, since a wider range of the high frequency spectrum is attenuated."
+msgstr ""
+
+msgctxt "#30044"
+msgid "Enable virtual force feedback effect by 'shaking' the screen."
+msgstr ""
+
+msgctxt "#30045"
+msgid "Enable physical force feedback effect via controller rumble."
+msgstr ""
+
+msgctxt "#30046"
+msgid "Specify the repeat interval (in frames) when holding down the Turbo A button."
+msgstr ""
+
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Inställningar"
