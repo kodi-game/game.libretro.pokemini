@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Video Scale (Restart)"
-msgstr ""
+msgstr "Échelle vidéo (redémarrer)"
 
 msgctxt "#30002"
 msgid "60Hz Mode"
@@ -35,19 +35,19 @@ msgstr ""
 
 msgctxt "#30003"
 msgid "LCD Filter"
-msgstr ""
+msgstr "Filtre LCD"
 
 msgctxt "#30004"
 msgid "LCD Mode"
-msgstr ""
+msgstr "Mode LCD"
 
 msgctxt "#30005"
 msgid "LCD Contrast"
-msgstr ""
+msgstr "Contraste LCD"
 
 msgctxt "#30006"
 msgid "LCD Brightness"
-msgstr ""
+msgstr "Luminosité de l'écran LCD"
 
 msgctxt "#30007"
 msgid "Palette"
@@ -55,7 +55,7 @@ msgstr ""
 
 msgctxt "#30008"
 msgid "Piezo Filter"
-msgstr ""
+msgstr "Filtre Piézo"
 
 msgctxt "#30009"
 msgid "Low Pass Filter"
@@ -67,19 +67,19 @@ msgstr ""
 
 msgctxt "#30011"
 msgid "Screen Shake Level"
-msgstr ""
+msgstr "Niveau de tremblement de l'écran."
 
 msgctxt "#30012"
 msgid "Controller Rumble Level"
-msgstr ""
+msgstr "Niveau de rumble du contrôleur."
 
 msgctxt "#30013"
 msgid "Turbo Button Period"
-msgstr ""
+msgstr "Période du bouton Turbo"
 
 msgctxt "#30014"
 msgid "Set internal video scale factor. Increasing the scale factor improves the appearance of the internal 'Dot Matrix' LCD filter."
-msgstr ""
+msgstr "Définir le facteur d'échelle vidéo interne. L'augmentation du facteur d'échelle améliore l'apparence du filtre LCD interne «Matrice de Points»."
 
 msgctxt "#30015"
 msgid "Update the display at 60Hz instead of the native 72Hz Pokemon Mini's refresh rate by dropping every sixth frame. Reduces video smoothness, but avoids screen tearing on displays that do not support native operation above 60Hz."
@@ -87,107 +87,107 @@ msgstr ""
 
 msgctxt "#30016"
 msgid "Select internal screen filter. 'Dot Matrix' produces an LCD effect that mimics real hardware. LCD filters are disabled when 'Video Scale' is set to '1x'."
-msgstr ""
+msgstr "Sélectionnez le filtre d'écran interne. «Matrice de Points» produit un effet LCD qui imite le matériel réel. Les filtres LCD sont désactivés lorsque «Échelle vidéo» est défini sur «1x»."
 
 msgctxt "#30017"
 msgid "Dot Matrix"
-msgstr ""
+msgstr "Matrice de Points"
 
 msgctxt "#30018"
 msgid "Scanlines"
-msgstr ""
+msgstr "Lignes de Balayage"
 
 msgctxt "#30019"
 msgid "None"
-msgstr ""
+msgstr "Aucun"
 
 msgctxt "#30020"
 msgid "Specify the greyscale 'color' reproduction characteristics of the emulated liquid crystal display. 'Analog' mimics real hardware. '2 Shades' removes ghosting, but causes flickering in most games."
-msgstr ""
+msgstr "Spécifiez les caractéristiques de reproduction 'couleur' en niveaux de gris de l'affichage à cristaux liquides émulé. «Analogique» imite le matériel réel. «2 Nuances» supprime les images fantômes, mais provoque un scintillement dans la plupart des jeux."
 
 msgctxt "#30021"
 msgid "Analog"
-msgstr ""
+msgstr "Analogique"
 
 msgctxt "#30022"
 msgid "3 Shades"
-msgstr ""
+msgstr "3 Nuances"
 
 msgctxt "#30023"
 msgid "2 Shades"
-msgstr ""
+msgstr "2 Nuances"
 
 msgctxt "#30024"
 msgid "Set contrast level of emulated liquid crystal display."
-msgstr ""
+msgstr "Réglez le niveau de contraste de l'écran à cristaux liquides émulé."
 
 msgctxt "#30025"
 msgid "Set brightness offset of emulated liquid crystal display."
-msgstr ""
+msgstr "Définissez le décalage de luminosité de l'affichage à cristaux liquides émulé."
 
 msgctxt "#30026"
 msgid "Specify palette used to 'colorize' the emulated liquid crystal display. 'Default' mimics real hardware."
-msgstr ""
+msgstr "Spécifiez la palette utilisée pour 'coloriser' l'affichage à cristaux liquides émulé. «Défaut» imite le matériel réel."
 
 msgctxt "#30027"
 msgid "Default"
-msgstr ""
+msgstr "Défaut"
 
 msgctxt "#30028"
 msgid "Old"
-msgstr ""
+msgstr "Vieux"
 
 msgctxt "#30029"
 msgid "Black & White"
-msgstr ""
+msgstr "Noir et Blanc"
 
 msgctxt "#30030"
 msgid "Green"
-msgstr ""
+msgstr "Vert"
 
 msgctxt "#30031"
 msgid "Inverted Green"
-msgstr ""
+msgstr "Vert Inversé"
 
 msgctxt "#30032"
 msgid "Red"
-msgstr ""
+msgstr "Rouge"
 
 msgctxt "#30033"
 msgid "Inverted Red"
-msgstr ""
+msgstr "Rouge Inversé"
 
 msgctxt "#30034"
 msgid "Blue LCD"
-msgstr ""
+msgstr "LCD Bleu"
 
 msgctxt "#30035"
 msgid "LED Backlight"
-msgstr ""
+msgstr "Rétro-éclairage LED"
 
 msgctxt "#30036"
 msgid "Girl Power"
-msgstr ""
+msgstr "Pouvoir des Filles"
 
 msgctxt "#30037"
 msgid "Blue"
-msgstr ""
+msgstr "Bleu"
 
 msgctxt "#30038"
 msgid "Inverted Blue"
-msgstr ""
+msgstr "Bleu Inversé"
 
 msgctxt "#30039"
 msgid "Sepia"
-msgstr ""
+msgstr "Sépia"
 
 msgctxt "#30040"
 msgid "Inverted Black & White"
-msgstr ""
+msgstr "Noir et Blanc Inversé"
 
 msgctxt "#30041"
 msgid "Use an audio filter to simulate the characteristics of the Pokemon Mini's piezoelectric speaker."
-msgstr ""
+msgstr "Utilisez un filtre audio pour simuler les caractéristiques du haut-parleur piézoélectrique du Pokemon Mini."
 
 msgctxt "#30042"
 msgid "Enables a low pass audio filter to soften the 'harsh' sound of the Pokemon Mini's piezoelectric speaker."
@@ -199,15 +199,15 @@ msgstr ""
 
 msgctxt "#30044"
 msgid "Enable virtual force feedback effect by 'shaking' the screen."
-msgstr ""
+msgstr "Activez l'effet de retour de force virtuel en 'secouant' l'écran."
 
 msgctxt "#30045"
 msgid "Enable physical force feedback effect via controller rumble."
-msgstr ""
+msgstr "Activer l'effet de retour de force physique via le roulement du contrôleur."
 
 msgctxt "#30046"
 msgid "Specify the repeat interval (in frames) when holding down the Turbo A button."
-msgstr ""
+msgstr "Spécifiez l'intervalle de répétition (en images) lorsque vous maintenez le bouton Turbo A."
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"

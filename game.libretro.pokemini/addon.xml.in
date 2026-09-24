@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.pokemini"
 		name="Nintendo - Pokemon Mini (PokeMini)"
-		version="0.60.0.48"
+		version="0.60.0.49"
 		provider-name="JustBurn">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -9,7 +9,7 @@
 	</requires>
 	<extension point="kodi.gameclient"
 			library_@PLATFORM@="@LIBRARY_FILENAME@">
-		<platforms></platforms>
+		<platforms>Nintendo - Pokemon Mini</platforms>
 		<extensions>min</extensions>
 		<supports_vfs>true</supports_vfs>
 		<supports_standalone>false</supports_standalone>
